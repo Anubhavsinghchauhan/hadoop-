@@ -1,0 +1,3 @@
+use to move file from desktop to hdfs- hadoop dfs -put /home/cloudera/Desktop/co /
+use to read the file - hadoop dfs -cat /
+url of mapreduce site- https://www.edureka.co/blog/mapreduce-tutorial/?utm_source=youtube&utm_campaign=mapreduce-tutorial-161216-wr&utm_medium=description
